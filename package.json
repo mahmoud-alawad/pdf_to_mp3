@@ -1,0 +1,19 @@
+{
+  "name": "pdf_to_mp3",
+  "version": "1.0.0",
+  "description": "simple nodejs app to convert pdf to mp3",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoud-alawad/pdf_to_mp3.git"
+  },
+  "author": "mahmoud alawad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahmoud-alawad/pdf_to_mp3/issues"
+  },
+  "homepage": "https://github.com/mahmoud-alawad/pdf_to_mp3#readme"
+}
